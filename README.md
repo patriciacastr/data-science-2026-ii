@@ -10,3 +10,10 @@
 1. Sherk
 2. Titanes del Pacifico
 3. La isla perdida
+
+# Actors
+1. Al pacino
+2. Marlon Brandom
+3. Denzel W.
+Silverster S
+Matt Damon
