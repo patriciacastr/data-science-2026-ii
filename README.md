@@ -23,3 +23,5 @@
 2. Colombia
 3. Brasil
 4. Argentina
+5. Costa Rica
+6. EEUU
