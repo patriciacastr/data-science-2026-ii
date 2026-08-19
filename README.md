@@ -17,3 +17,11 @@
 3. Denzel W.
 4. Silverster S
 5. Matt Damon
+
+# Countries
+1. Peru
+2. Colombia
+3. Brasil
+4. Argentina
+5. Costa Rica
+6. EEUU
